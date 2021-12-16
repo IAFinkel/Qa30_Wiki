@@ -1,0 +1,44 @@
+20:16:38 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+20:16:39 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+20:16:40 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+20:16:41 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+20:16:41 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+20:16:41 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+20:16:41 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+20:16:42 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+20:16:42 INFO  config.AppiumListener - You have a problem with-->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Users\gorbu\Downloads\wi..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:\Users\gorbu\Downloads\wi..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexus_5, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 242934f1-a094-46e6-babe-7416adc47450
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/login_username_text']}[Ljava.lang.StackTraceElement;@35f68c5
+20:16:43 INFO  config.AppiumListener - Screen with error in file-->C:\Users\gorbu\Documents\GitHub\Qa30_Wiki\src\test\resources\screens\scr1003.png
+20:17:11 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+20:17:12 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+20:17:13 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+20:17:14 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+20:17:14 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+20:17:14 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+20:17:14 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+20:17:16 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+20:17:16 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+20:17:17 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+20:17:17 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+20:17:17 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+20:17:17 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+20:17:18 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+20:17:19 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+20:17:19 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+20:17:20 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+20:17:20 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+20:17:20 INFO  config.AppiumListener - You have a problem with-->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Users\gorbu\Downloads\wi..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:\Users\gorbu\Downloads\wi..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexus_5, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 881953ec-4937-4d74-af52-fae2001131bb
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@1267a354
+20:17:21 INFO  config.AppiumListener - Screen with error in file-->C:\Users\gorbu\Documents\GitHub\Qa30_Wiki\src\test\resources\screens\scr1041.png

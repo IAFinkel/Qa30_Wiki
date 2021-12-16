@@ -1,0 +1,21 @@
+19:50:54 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:50:55 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:50:55 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+19:50:56 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+19:50:56 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+19:50:56 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id= 'org.wikipedia:id/explore_overflow_account_container']
+19:50:56 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:50:58 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:50:58 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:50:58 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:50:59 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+19:50:59 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+19:50:59 INFO  config.AppiumListener - Start searching element-->By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+19:51:01 INFO  config.AppiumListener - Element was found-->By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+19:51:01 INFO  config.AppiumListener - You have a problem with-->Cannot set the element to 'misha'. Did you interact with the correct element?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Users\gorbu\Downloads\wi..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:\Users\gorbu\Downloads\wi..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexus_5, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: c89f05a3-c618-4b6e-a9e6-434a65a31c3d[Ljava.lang.StackTraceElement;@4101d2a0
+19:51:01 INFO  config.AppiumListener - Screen with error in file-->C:\Users\gorbu\Documents\GitHub\Qa30_Wiki\src\test\resources\screens\scr3061.png
