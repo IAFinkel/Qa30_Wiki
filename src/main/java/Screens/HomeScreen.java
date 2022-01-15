@@ -13,6 +13,9 @@ public class HomeScreen extends BaseScreen{
     MobileElement accountName;
     @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/menu_overflow_button']")
     MobileElement flowButton;
+    @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']")
+    MobileElement logOutButton;
+
 
     public boolean isAccountPresent(){
         should(flowButton,20);
@@ -23,4 +26,12 @@ public class HomeScreen extends BaseScreen{
         Assert.assertTrue(accountName.isDisplayed());
         return this;
     }
+
+    public HomeScreen logOut(){
+        should(flowButton,20);
+        flowButton.click();
+        logOutButton.click();
+        return this;
+    }
+
 }

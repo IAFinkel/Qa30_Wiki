@@ -17,4 +17,17 @@ public class LoginTest extends ConfigWiki {
                 .isAccountPresent();
         Assert.assertTrue(isAccountPresent);
     }
+
+    @Test
+    public void logOutTest(){
+        boolean accountPresent = new MainScreen(driver)
+                .clickOnFlowBtn()
+                .clickOnLogWikiBtn()
+                .fillLogForm(Auth.builder().username("korona.rona").password("Ww123456!").build())
+                .logOut()
+                .isAccountPresent();
+
+        Assert.assertFalse(accountPresent);//??????
+
+    }
 }
